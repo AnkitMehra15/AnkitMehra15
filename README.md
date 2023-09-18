@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js
 - 💞️ 
 - 📫 How to reach me :
--    Send message on my email -( socialankitmehra1504@gmail.com )
+-    Send message on my email -( ankitmehra1504@gmail.com )
 
 <!---
 AnkitMehra15/AnkitMehra15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
