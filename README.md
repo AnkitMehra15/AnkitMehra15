@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitMehra15
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning DSA with C++
 - 💞️ 
 - 📫 How to reach me :
 -    Send message on my email -( ankitmehra1504@gmail.com )
